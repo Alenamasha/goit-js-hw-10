@@ -1,0 +1,1 @@
+export const ERROR_MESSAGE = 'Too many matches found. Please enter a more specific name.';
